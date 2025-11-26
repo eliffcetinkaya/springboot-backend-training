@@ -43,6 +43,7 @@ No database (H2/MySQL/etc.) was used; the goal was to understand backend archite
 ---
 
 ## Project Structure
+'''
 src/
  ├── main/
  │    ├── java/
@@ -70,7 +71,7 @@ src/
                   └── elifcetinkaya/
                         └── backendtraining/
                               └── BackendtrainingApplicationTests.java
-
+'''
 This project follows the standard Spring Boot folder layout.
 
 ---
