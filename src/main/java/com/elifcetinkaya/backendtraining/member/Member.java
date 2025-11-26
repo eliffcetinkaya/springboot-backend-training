@@ -1,4 +1,4 @@
-package com.example.demo.member;
+package com.elifcetinkaya.backendtraining.member;
 
 import jakarta.persistence.*;
 import org.springframework.lang.NonNull;

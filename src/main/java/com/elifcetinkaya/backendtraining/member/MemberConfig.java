@@ -1,4 +1,4 @@
-package com.example.demo.member;
+package com.elifcetinkaya.backendtraining.member;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;

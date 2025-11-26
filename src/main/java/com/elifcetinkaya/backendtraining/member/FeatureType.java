@@ -1,4 +1,4 @@
-package com.example.demo.member;
+package com.elifcetinkaya.backendtraining.member;
 
 public enum FeatureType {
     ACADEMIC, PHYSICAL, WORK

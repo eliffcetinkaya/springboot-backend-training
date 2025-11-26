@@ -1,4 +1,4 @@
-package com.example.demo.member;
+package com.elifcetinkaya.backendtraining.member;
 
 public enum MemberType {
     STAFF,STUDENT,TEACHER

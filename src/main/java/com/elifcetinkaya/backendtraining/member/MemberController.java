@@ -1,4 +1,4 @@
-package com.example.demo.member;
+package com.elifcetinkaya.backendtraining.member;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
