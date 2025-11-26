@@ -95,7 +95,9 @@ This preparation made it much easier when I later worked on client integration c
 ## Running the Project
 On macOS / Linux:
 ./mvnw spring-boot:run
+
 On Windows:
 mvnw.cmd spring-boot:run
+
 Application will run at:
 http://localhost:8080/api/v1/members
