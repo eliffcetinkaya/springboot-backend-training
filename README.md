@@ -1,6 +1,6 @@
 # Spring Boot Backend Training Project
 
-This project was developed during my internship at Hitit Computer Services as a preparation step before contributing to the company’s production codebase.
+This project was developed during my internship as a preparation step before contributing to the company’s production codebase.
 
 My team leader encouraged me to build a small backend service from scratch so I could practice:
 - Spring Boot fundamentals  
